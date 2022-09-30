@@ -1,8 +1,2 @@
-### Hi there 👋
-
-<!--
-**PastoreLuca/PastoreLuca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-Ciao sono Luca
+Studente di Informatica al Dipartimento degli Studi di Salerno
+Competenze in C/C++/HTML/CSS/JS/JAVA e competenze con database relazionali
